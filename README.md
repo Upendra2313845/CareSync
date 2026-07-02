@@ -31,6 +31,8 @@ An AI-powered Hospital Appointment Management System with Face Recognition, OTP 
 
 </p>
 
+</div>
+
 ---
 
 ## Project Preview
