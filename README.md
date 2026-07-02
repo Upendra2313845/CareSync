@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 CareSync
+# CareSync
 ### Smart Hospital Appointment Management System
 
 <p align="center">
@@ -33,7 +33,7 @@ An AI-powered Hospital Appointment Management System with Face Recognition, OTP 
 
 ---
 
-## 🎥 Project Preview
+## Project Preview
 
 <p align="center">
 
@@ -45,7 +45,7 @@ An AI-powered Hospital Appointment Management System with Face Recognition, OTP 
 
 ---
 
-# 📌 Overview
+#  Overview
 
 CareSync is a Smart Hospital Appointment Management System designed to simplify patient registration, appointment scheduling, identity verification, and hospital administration.
 
@@ -55,9 +55,9 @@ Patients can register, verify their identity, book appointments, and manage thei
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
-## 👨‍⚕️ Patient Module
+##  Patient Module
 
 - Patient Registration
 - Secure Login
@@ -70,7 +70,7 @@ Patients can register, verify their identity, book appointments, and manage thei
 
 ---
 
-## 🏥 Admin Module
+##  Admin Module
 
 - Admin Login
 - Manage Patients
@@ -81,7 +81,7 @@ Patients can register, verify their identity, book appointments, and manage thei
 
 ---
 
-## 🔒 Security Features
+##  Security Features
 
 - Face Recognition Authentication
 - OTP Verification via Twilio
@@ -91,7 +91,7 @@ Patients can register, verify their identity, book appointments, and manage thei
 
 ---
 
-# 🖥️ Tech Stack
+#  Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
@@ -106,33 +106,11 @@ Patients can register, verify their identity, book appointments, and manage thei
 
 ---
 
-# 🏗️ Project Architecture
-
-```
-                User
-
-                  │
-
-          Frontend (HTML/CSS/JS)
-
-                  │
-
-          Flask REST APIs
-
-                  │
-
-      ┌───────────┴───────────┐
-
- MySQL Database        OpenCV Face Recognition
-
-                  │
-
-            Twilio OTP Service
-```
+#  Project Architecture
 
 ---
 
-# 🚀 REST APIs
+#  REST APIs
 
 | Method | Endpoint | Description |
 |----------|----------------|--------------------------|
@@ -149,7 +127,7 @@ Patients can register, verify their identity, book appointments, and manage thei
 
 ---
 
-# 📷 Screenshots
+#  Screenshots
 
 ## Home
 
@@ -187,7 +165,7 @@ Patients can register, verify their identity, book appointments, and manage thei
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ## Clone Repository
 
@@ -261,59 +239,12 @@ http://localhost:5000
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
-```
-CareSync
-
-│
-
-├── app.py
-
-├── requirements.txt
-
-├── config.py
-
-├── static/
-
-│ ├── css/
-
-│ ├── js/
-
-│ ├── images/
-
-│
-
-├── templates/
-
-│
-
-├── database/
-
-│
-
-├── models/
-
-│
-
-├── routes/
-
-│
-
-├── face_recognition/
-
-│
-
-├── otp/
-
-│
-
-└── README.md
-```
 
 ---
 
-# 🎯 Future Improvements
+#  Future Improvements
 
 - Online Payment Gateway
 - Doctor Recommendation System
@@ -326,7 +257,7 @@ CareSync
 
 ---
 
-# 📈 Project Highlights
+#  Project Highlights
 
 ✅ Smart Hospital Management
 
@@ -352,7 +283,7 @@ CareSync
 
 ---
 
-# 👨‍💻 Developer
+#  Developer
 
 **Upendra Singh**
 
@@ -380,20 +311,20 @@ https://leetcode.com/yourusername
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you like this project,
 
-⭐ Star this repository
+ Star this repository
 
 🍴 Fork this repository
 
-📢 Share it with others
+ Share it with others
 
 ---
 
 <div align="center">
 
-### Made with ❤️ by Upendra Singh
+Developed by **Upendra Singh**
 
 </div>
