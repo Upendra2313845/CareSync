@@ -299,17 +299,18 @@ https://linkedin.com/in/yourusername
 
 https://leetcode.com/yourusername
 
----
+<p align="center">
 
-#  Support
+<a href="https://caresync-hospital-management-system-2.onrender.com/">
+ <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-If you like this project,
 
- Star this repository
+<a href="https://github.com/yourusername/CareSync">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
+</a>
 
-🍴 Fork this repository
+</p>
 
- Share it with others
 
 ---
 
